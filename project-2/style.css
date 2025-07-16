@@ -1,0 +1,22 @@
+
+.title{
+    background-color:lightskyblue;
+    text-align: center;
+    color:black;
+    font-size:60px;
+    border-bottom: 10px double blue;
+    font-weight:700;
+    height:120px;
+}
+.img-cat-container{
+    display:inline-block;
+    border-left:2px solid blue;
+    border-right:2px solid blue;
+    width: 350px;
+    background-color:antiquewhite;
+}
+.cat-img{
+    margin:10px;
+    width: 330px;
+    height:auto;
+}
